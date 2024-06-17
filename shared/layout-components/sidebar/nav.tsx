@@ -24,7 +24,7 @@ export const MenuItems: any = [
     children: [
       {
         id: 3,
-        path: "/components/users/dealers/dealer-list",
+        path: "/components/users/dealers/dealers",
         type: "link",
         active: false,
         selected: false,
