@@ -9,7 +9,7 @@ const Dashboard = () => {
 	return (
 		<div>
 			<Seo title='Dashboard' />
-			<PageHeader currentpage="Dashboard" activepage="Home" mainpage="Dashboard" />
+			<PageHeader currentpage="Dashboard" activepage="Dashboard" mainpage="Dashboard" />
 			{/* DashboardHere */}
 		</div>
 	);

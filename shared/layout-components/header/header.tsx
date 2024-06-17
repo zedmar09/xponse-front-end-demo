@@ -502,12 +502,12 @@ const Header = ({ local_varaiable, ThemeChanger }: any) => {
                                         </div>
                                     </div> */}
                   {/* SEARCH FEATURES */}
-                  {/* <div className="header-search" >
+                  <div className="header-search" >
                                         <button aria-label="button" type="button" data-hs-overlay="#search-modal"
                                             className="inline-flex flex-shrink-0 justify-center items-center gap-2 h-[2.375rem] w-[2.375rem] rounded-full font-medium  hover:bg-gray-200 text-gray-500 align-middle focus:outline-none focus:ring-0 focus:ring-gray-400 focus:ring-offset-0 focus:ring-offset-white transition-all text-xs dark:bg-bgdark dark:hover:bg-black/20 dark:text-white/70 dark:hover:text-white dark:focus:ring-white/10 dark:focus:ring-offset-white/10">
                                             <i className="ri-search-2-line header-icon"></i>
                                         </button>
-                                    </div> */}
+                                    </div>
 
                   {/* LIGHT AND DARK MODE */}
                   <div
@@ -615,7 +615,7 @@ const Header = ({ local_varaiable, ThemeChanger }: any) => {
                                     </div> */}
 
                   {/* NOTIFICATION DROPDOWN */}
-                  {/* <div className="header-notification hs-dropdown ti-dropdown hidden sm:block" data-hs-dropdown-placement="bottom-right">
+                  <div className="header-notification hs-dropdown ti-dropdown hidden sm:block" data-hs-dropdown-placement="bottom-right">
                                         <button id="dropdown-notification" type="button"
                                             className="hs-dropdown-toggle ti-dropdown-toggle p-0 border-0 flex-shrink-0 h-[2.375rem] w-[2.375rem] rounded-full shadow-none focus:ring-gray-400 text-xs dark:focus:ring-white/10">
                                             <i className="ri-notification-2-line header-icon animate-bell"></i>
@@ -669,7 +669,7 @@ const Header = ({ local_varaiable, ThemeChanger }: any) => {
           </div>
                                             </div>
                                         </div>
-                                    </div> */}
+                                    </div>
 
                   {/* RELATED APPS DROPDOWN */}
                   {/* <div className="header-apps hs-dropdown ti-dropdown hidden md:block" data-hs-dropdown-placement="bottom-right">
